@@ -1,0 +1,6 @@
+
+### Cypress Custom .gitignore ###
+*.log.*
+dist-*
+build
+node_modules
